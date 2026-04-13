@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\displaylogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:displaylogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\displaylogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:displaylogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\prompt_and_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:prompt_and_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\chats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:welcome_and_username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\prompt_and_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:prompt_and_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|c:\\users\\student\\documents\\github\\cyberforce\\cyberforce_poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46980D-15D3-415F-8826-33A062E2A48C}|cyberforce_poe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,30 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "audioplayer.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\audioplayer.cs",
               "RelativeDocumentMoniker": "audioplayer.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\audioplayer.cs",
               "RelativeToolTip": "audioplayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T10:29:23.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "prompt_and_search.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\prompt_and_search.cs",
               "RelativeDocumentMoniker": "prompt_and_search.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\prompt_and_search.cs",
               "RelativeToolTip": "prompt_and_search.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowEwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T09:49:44.304Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "chats.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\chats.cs",
               "RelativeToolTip": "chats.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAG0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T09:43:28.966Z",
               "EditorCaption": ""
@@ -83,33 +83,33 @@
               "RelativeDocumentMoniker": "welcome_and_username.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\welcome_and_username.cs",
               "RelativeToolTip": "welcome_and_username.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T09:30:03.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DisplayLogo.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\DisplayLogo.cs",
               "RelativeDocumentMoniker": "DisplayLogo.cs",
-              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\DisplayLogo.cs*",
-              "RelativeToolTip": "DisplayLogo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\DisplayLogo.cs",
+              "RelativeToolTip": "DisplayLogo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T09:23:20.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T09:18:07.946Z",
               "EditorCaption": ""
