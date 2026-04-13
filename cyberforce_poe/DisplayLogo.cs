@@ -49,4 +49,4 @@ namespace cyberforce_poe
             Console.ResetColor();
         }//end of method
     }//end of class
-}//end of namespa
+}//end of namespace
