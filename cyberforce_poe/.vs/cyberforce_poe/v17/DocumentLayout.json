@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "audioplayer.cs",
               "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\cyberforce_poe\\audioplayer.cs",
               "RelativeToolTip": "audioplayer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T10:29:23.17Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "prompt_and_search.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAowHgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:49:44.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T09:49:44.304Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "chats.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAgwG0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:43:28.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T09:43:28.966Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "welcome_and_username.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAwwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:30:03.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T09:30:03.552Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "DisplayLogo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:23:20.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T09:23:20.569Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T09:18:07.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T09:18:07.946Z"
             }
           ]
         }
