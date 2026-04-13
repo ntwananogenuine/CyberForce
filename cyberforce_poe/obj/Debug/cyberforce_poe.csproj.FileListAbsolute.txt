@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\obj\Debug\cyberforce_poe.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\obj\Debug\cyberforce_poe.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\bin\Debug\cyberforce_poe.exe.config
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\bin\Debug\cyberforce_poe.exe
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\bin\Debug\cyberforce_poe.pdb
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\obj\Debug\cyberforce_poe.exe
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\obj\Debug\cyberforce_poe.pdb
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\bin\Debug\logo.png
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\obj\Debug\cyberforce_poe.exe.config
+C:\Users\Student\Documents\GitHub\CyberForce\cyberforce_poe\bin\Debug\greeting.wav
