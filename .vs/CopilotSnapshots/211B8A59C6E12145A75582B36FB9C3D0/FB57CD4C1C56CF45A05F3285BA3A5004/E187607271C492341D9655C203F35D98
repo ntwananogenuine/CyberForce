@@ -1,0 +1,186 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace demo
+{
+    public class respond
+    {
+        
+            private Dictionary<string, List<string>> _responses;
+            private Random _random = new Random();
+
+            public respond()
+            {
+                _responses = new Dictionary<string, List<string>>()
+            {
+                {
+                    "password",
+                    new List<string>()
+                    {
+                        "Use strong passwords with symbols and numbers.",
+                        "Never reuse passwords across websites.",
+                        "Enable two-factor authentication for extra security."
+                    }
+                },
+
+                {
+                    "phishing",
+                    new List<string>()
+                    {
+                        "Do not click suspicious email links.",
+                        "Always verify the sender before opening attachments.",
+                        "Phishing attacks often pretend to be trusted companies."
+                    }
+                },
+
+                {
+                    "privacy",
+                    new List<string>()
+                    {
+                        "Review your social media privacy settings regularly.",
+                        "Avoid sharing personal information publicly.",
+                        "Use secure websites that start with HTTPS."
+                    }
+                },
+
+                {
+                    "malware",
+                    new List<string>()
+                    {
+                        "Install antivirus software to protect your device.",
+                        "Avoid downloading files from unknown websites.",
+                        "Keep your operating system updated."
+                    }
+                },
+
+                {
+                    "scam",
+                    new List<string>()
+                    {
+                        "Online scams often create urgency to trick victims.",
+                        "Never send money to unknown people online.",
+                        "Always verify suspicious messages independently."
+                    }
+                }
+            };
+            }
+
+            public string GetResponse(string input)
+            {
+                foreach (var item in _responses)
+                {
+                    if (input.Contains(item.Key))
+                    {
+                        int index = _random.Next(item.Value.Count);
+
+                        return item.Value[index];
+                    }
+                }
+
+                return null;
+            }
+
+            public List<string> GetAllKeywords()
+            {
+                return new List<string>(_responses.Keys);
+            }
+        }
+
+    public enum Sentiment
+    {
+        Neutral,
+        Worried,
+        Curious,
+        Frustrated,
+        Happy
+    }
+
+    public class SentimentDetector
+    {
+        private Dictionary<Sentiment, List<string>> _triggers;
+
+        public SentimentDetector()
+        {
+            _triggers = new Dictionary<Sentiment, List<string>>()
+            {
+                {
+                    Sentiment.Worried,
+                    new List<string>()
+                    {
+                        "worried",
+                        "scared",
+                        "afraid",
+                        "unsafe"
+                    }
+                },
+
+                {
+                    Sentiment.Curious,
+                    new List<string>()
+                    {
+                        "curious",
+                        "interested",
+                        "wondering"
+                    }
+                },
+
+                {
+                    Sentiment.Frustrated,
+                    new List<string>()
+                    {
+                        "confused",
+                        "annoyed",
+                        "frustrated"
+                    }
+                },
+
+                {
+                    Sentiment.Happy,
+                    new List<string>()
+                    {
+                        "great",
+                        "awesome",
+                        "thanks"
+                    }
+                }
+            };
+        }
+
+        public Sentiment Detect(string input)
+        {
+            foreach (var sentiment in _triggers)
+            {
+                foreach (string word in sentiment.Value)
+                {
+                    if (input.Contains(word))
+                    {
+                        return sentiment.Key;
+                    }
+                }
+            }
+
+            return Sentiment.Neutral;
+        }
+
+        public string GetSentimentResponse(Sentiment sentiment)
+        {
+            switch (sentiment)
+            {
+                case Sentiment.Worried:
+                    return "I understand your concern.";
+
+                case Sentiment.Curious:
+                    return "That is a great question.";
+
+                case Sentiment.Frustrated:
+                    return "I know cybersecurity can feel confusing.";
+
+                case Sentiment.Happy:
+                    return "I am glad you are enjoying this.";
+
+                default:
+                    return "";
+            }
+        }
+    }
