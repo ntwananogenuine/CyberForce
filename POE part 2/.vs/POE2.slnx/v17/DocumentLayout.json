@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond_local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:respond_local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:respond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|c:\\users\\student\\downloads\\wpfffff\\poe2\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|c:\\users\\student\\documents\\github\\cyberforce\\poe part 2\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\voice_greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:voice_greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Downloads\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond_local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:respond_local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\voice_greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA24C76-45C2-475C-B65B-097D6138681A}|POE2.csproj|solutionrelative:voice_greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,63 +37,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "respond_local.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond_local.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond_local.cs",
               "RelativeDocumentMoniker": "respond_local.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond_local.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond_local.cs",
               "RelativeToolTip": "respond_local.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T12:02:15.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\..\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\..\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:59:50.53Z"
+              "WhenOpened": "2026-05-29T12:02:15.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-28T00:31:56.259Z"
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Downloads\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAPoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:59:50.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-28T00:31:56.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwAgAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T00:31:30.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "voice_greeting.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\voice_greeting.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\voice_greeting.cs",
               "RelativeDocumentMoniker": "voice_greeting.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\voice_greeting.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\voice_greeting.cs",
               "RelativeToolTip": "voice_greeting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +106,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ChatBot.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\ChatBot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\ChatBot.cs",
               "RelativeDocumentMoniker": "ChatBot.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\ChatBot.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\ChatBot.cs",
               "RelativeToolTip": "ChatBot.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAAP0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T00:29:36.274Z",
               "EditorCaption": ""
@@ -116,11 +119,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "respond.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond.cs",
               "RelativeDocumentMoniker": "respond.cs",
-              "ToolTip": "C:\\Users\\Student\\Downloads\\wPFFFFF\\POE2\\respond.cs",
+              "ToolTip": "C:\\Users\\Student\\Documents\\GitHub\\CyberForce\\POE part 2\\respond.cs",
               "RelativeToolTip": "respond.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAmwMgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAAAIgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T00:29:25.313Z",
               "EditorCaption": ""
